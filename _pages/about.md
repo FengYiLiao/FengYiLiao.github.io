@@ -12,8 +12,8 @@ I am a master student in Electrical of Computer Engingeering(ECE) at the Univers
 
 News 
 ======
-Check out our new work **F. Y. Liao**, & Zheng, Y. (2022). Iterative Inner/outer Approximations for Scalable Semidefinite Programs
-using Block Factor-width-two Matrices ([https://pdfs.semanticscholar.org/5ae2/cbea6367a30d9647330b17ec814a2d5f2e26.pdf](https://arxiv.org/pdf/2204.06759.pdf)).
+Check out our new work Iterative Inner/outer Approximations for Scalable Semidefinite Programs
+using Block Factor-width-two Matrices (https://arxiv.org/pdf/2204.06759.pdf).
 
 Reseaerch Interests
 ======
