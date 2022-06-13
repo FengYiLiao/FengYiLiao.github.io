@@ -10,7 +10,7 @@ redirect_from:
 
 I am a master student in Electrical and Computer Engingeering(ECE) at the University of California, San Diego. Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University.
 
-News 
+Updates
 ======
 Check out our new work [Iterative Inner/outer Approximations for Scalable Semidefinite Programs
 using Block Factor-width-two Matrices](https://arxiv.org/pdf/2204.06759.pdf).
