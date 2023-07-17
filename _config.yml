@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "USA"
-title                    : "Feng Yi Liao / MS Student "
+title                    : "Feng Yi Liao" #/Incoming PhD Student
 title_separator          : "-"
 name                     : &name "Feng Yi Liao"
 description              : &description "personal description"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Feng Yi Liao"
   avatar           : "FengYiLiao.jpg"
-  bio              : "MS student at UCSD"
+  bio              : "Incoming PhD student at UCSD"
   location         : "California, USA"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "robert147456@gmail.com"
+  email            : "fliao@ucsd.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
