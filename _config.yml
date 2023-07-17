@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Feng Yi Liao"
+  name             : "Feng-Yi Liao"
   avatar           : "FengYiLiao.jpg"
   bio              : "Incoming PhD student at UCSD"
   location         : "California, USA"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=b5Wog4QAAAAJ&hl=en"
   email            : "fliao@ucsd.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
