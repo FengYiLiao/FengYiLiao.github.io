@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "USA"
-title                    : "Feng Yi Liao" #/Incoming PhD Student
+title                    : "Feng-Yi Liao" #/Incoming PhD Student
 title_separator          : "-"
-name                     : &name "Feng Yi Liao"
+name                     : &name "Feng-Yi Liao"
 description              : &description "personal description"
 url                      : https://fengyiliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
