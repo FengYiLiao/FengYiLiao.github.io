@@ -12,8 +12,8 @@ I am a master student, in the transition to PhD program, in Electrical and Compu
 
 Updates
 ======
-- Check out our new work [Iterative Inner/outer Approximations for Scalable Semidefinite Programs
-using Block Factor-width-two Matrices](https://arxiv.org/pdf/2204.06759.pdf).
+- Check out our new work [An Overview and Comparison of Spectral Bundle Methods for
+Primal and Dual Semidefinite Programs](https://arxiv.org/pdf/2307.07651.pdf).
 
 Reseaerch Interests
 ======
@@ -23,6 +23,7 @@ Reseaerch Interests
 
 Publications/Presentation
 ======
+- **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs." arXiv preprint arXiv:2307.07651 (2023). [[PDF]](https://arxiv.org/pdf/2307.07651.pdf)
 - **Feng-Yi, Liao**, and Yang Zheng. "Iterative inner/outer approximations for scalable semidefinite programs using block factor-width-two matrices." 2022 IEEE 61st Conference on Decision and Control (CDC). IEEE, 2022. [[PDF]](https://arxiv.org/pdf/2204.06759.pdf)
 - A. Q. Xu, S. J. Luo, **F. Y. Liao**, I. C. Chen, M. C. Chien, and K. Y. Huang, “Development of Novel Auto Inspection System for Paddy Seed Germination,” Sensors and Materials, vol. 32, pp. 3647-3657, 2020. [[PDF]](https://pdfs.semanticscholar.org/5ae2/cbea6367a30d9647330b17ec814a2d5f2e26.pdf)
 - **F. Y. Liao**, K. Y. Huang, and M. T. Yan. “Auto-measurement of geometric features for micro cutting tools,” International Society of Mechatronic Engineering, the 5th conference, (ISME), 2020. oral presentation.
