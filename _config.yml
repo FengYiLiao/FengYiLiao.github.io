@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "USA"
-title                    : "Feng-Yi Liao" #/Incoming PhD Student
+title                    : "Feng-Yi Liao" #/PhD Student
 title_separator          : "-"
 name                     : &name "Feng-Yi Liao"
 description              : &description "personal description"
