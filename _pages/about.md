@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Electrical and Computer Engingeering(ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
+I am a first year PhD student in Electrical and Computer Engineering(ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
 
 Updates
 ======
 - Check out our new work [An Overview and Comparison of Spectral Bundle Methods for
 Primal and Dual Semidefinite Programs](https://arxiv.org/pdf/2307.07651.pdf).
 
-Reseaerch Interests
+Research Interests
 ======
 - Optimization
 - Machine Learning
