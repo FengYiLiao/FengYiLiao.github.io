@@ -33,6 +33,9 @@ Journal
 - A. Q. Xu, S. J. Luo, **F. Y. Liao**, I. C. Chen, M. C. Chien, and K. Y. Huang, “Development of Novel Auto Inspection System for Paddy Seed Germination,” Sensors and Materials, vol. 32, pp. 3647-3657, 2020. [[PDF]](https://pdfs.semanticscholar.org/5ae2/cbea6367a30d9647330b17ec814a2d5f2e26.pdf)
 
 
+Test
+======
+[[PDF]]("https://fengyiliao.github.io/files/CV.pdf")
 
 
 
