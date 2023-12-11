@@ -35,7 +35,7 @@ Journal
 
 Test
 ======
-[[PDF]]("https://fengyiliao.github.io/files/CV.pdf")
+[[PDF]](https://fengyiliao.github.io/files/Regularconditions_PPM.pdf)
 
 
 
