@@ -25,7 +25,7 @@ Preprint
 - **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs." arXiv preprint arXiv:2307.07651 (2023). [[PDF]](https://arxiv.org/pdf/2307.07651.pdf) [[Code]](https://github.com/soc-ucsd/SpecBM)
 
 - **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "Error bounds, PL condition, and quadratic growth for weakly convex
-functions, and linear convergences of proximal point methods." (2023) [[PDF]](https://fengyiliao.github.io/files/L4DC_report.pdf)
+functions, and linear convergences of proximal point methods." (2023) [[PDF]](https://fengyiliao.github.io/files/Technical_report.pdf)
 
 
 Conference paper 
