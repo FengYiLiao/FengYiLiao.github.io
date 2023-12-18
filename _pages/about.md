@@ -12,7 +12,7 @@ I am a first year PhD student in Electrical and Computer Engineering(ECE) at the
 
 Updates
 ======
-- Received the Informs 2023 poster presentation award - Operations Research and Optimization Methodologies Category Winner.
+- Received the **{Informs 2023 poster presentation award} - Operations Research and Optimization Methodologies Category Winner.
 
 
 - Check out our new work [An Overview and Comparison of Spectral Bundle Methods for
