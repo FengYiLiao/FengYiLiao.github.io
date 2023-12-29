@@ -14,6 +14,8 @@ Updates
 ======
 - Received the **Informs 2023 poster presentation award** - Operations Research and Optimization Methodologies Category Winner.
 
+- Check out our new work [Error bounds, PL condition, and quadratic growth for weakly convex
+functions, and linear convergences of proximal point methods](https://arxiv.org/abs/2312.16775).
 
 - Check out our new work [An Overview and Comparison of Spectral Bundle Methods for
 Primal and Dual Semidefinite Programs](https://arxiv.org/pdf/2307.07651.pdf).
