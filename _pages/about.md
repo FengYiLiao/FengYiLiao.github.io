@@ -12,7 +12,7 @@ I am a first year PhD student in Electrical and Computer Engineering(ECE) at the
 
 Updates
 ======
-- Our [Error bounds, PL condition, and quadratic growth for weakly convex
+- Our paper on [Error bounds, PL condition, and quadratic growth for weakly convex
 functions, and linear convergences of proximal point methods](https://arxiv.org/abs/2312.16775) has been accepted for presentation at the 2024 L4DC!
 
 - Received the **Informs 2023 poster presentation award** - Operations Research and Optimization Methodologies Category Winner.
