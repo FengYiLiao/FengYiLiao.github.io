@@ -35,13 +35,13 @@ Preprint
 ======
 - **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "An Overview and Comparison of Spectral Bundle Methods for Primal and Dual Semidefinite Programs." arXiv preprint arXiv:2307.07651 (2023). [[PDF]](https://arxiv.org/pdf/2307.07651.pdf) [[Code]](https://github.com/soc-ucsd/SpecBM)
 
-- **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "Error bounds, PL condition, and quadratic growth for weakly convex
-functions, and linear convergences of proximal point methods." (2023) [[PDF]](https://fengyiliao.github.io/files/Technical_report.pdf)
-
-
 Conference paper 
 ======
 - **Feng-Yi, Liao**, and Yang Zheng. "Iterative inner/outer approximations for scalable semidefinite programs using block factor-width-two matrices." 2022 IEEE 61st Conference on Decision and Control (CDC). IEEE, 2022. [[PDF]](https://arxiv.org/pdf/2204.06759.pdf) [[Code]](https://github.com/soc-ucsd/Iterative_SDPfw)
+
+- **Feng-Yi, Liao**, Lijun Ding, and Yang Zheng. "Error bounds, PL condition, and quadratic growth for weakly convex
+functions, and linear convergences of proximal point methods." (2023) [[PDF]](https://proceedings.mlr.press/v242/liao24a.htmlf)
+
 
 Journal
 ======
