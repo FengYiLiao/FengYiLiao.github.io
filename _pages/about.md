@@ -12,6 +12,9 @@ I am a first year PhD student in Electrical and Computer Engineering (ECE) at th
 
 Updates
 ======
+- Presented a talk on [Error bounds, PL condition, and quadratic growth for weakly convex
+functions, and linear convergences of proximal point methods](https://fengyiliao.github.io/files/2024-ISMP-Liao.pdf) at [2024 ISMP conference](https://ismp2024.gerad.ca/).
+
 - Our paper on [Error bounds, PL condition, and quadratic growth for weakly convex
 functions, and linear convergences of proximal point methods](https://arxiv.org/abs/2312.16775) has been accepted for presentation at the 2024 L4DC!
 
