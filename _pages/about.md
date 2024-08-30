@@ -29,7 +29,6 @@ Primal and Dual Semidefinite Programs](https://arxiv.org/pdf/2307.07651.pdf).
 Research Interests
 ======
 - Optimization
-- Machine Learning
 
 Preprint
 ======
