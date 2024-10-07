@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
+I am a second year PhD student in Electrical and Computer Engineering (ECE) at the University of California, San Diego, advised by Prof. [Yang Zheng](https://zhengy09.github.io/). Previously, I received my bachelor degree in Bio-industrial Mechatronics Engineering, National Chung Hsing University, and master degree in ECE at the University of California, San Diego.
 
 Updates
 ======
