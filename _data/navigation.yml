@@ -12,5 +12,9 @@ main:
     url: "https://fengyiliao.github.io/files/CV.pdf"
     
 
-  - title: "Publications"
-    url: /publications/
+ # - title: "Publications"
+ #  url: /publications/
+
+
+  - title: "Talks"
+    Url: /talks/
