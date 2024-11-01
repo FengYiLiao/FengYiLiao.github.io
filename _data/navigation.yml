@@ -8,13 +8,15 @@ main:
   #- title: "Awards"
   #  url: /Awards/
   
-  - title: "CV"
-    url: "https://fengyiliao.github.io/files/CV.pdf"
-    
 
  # - title: "Publications"
  #  url: /publications/
 
-
+  - title: "CV"
+    url: "https://fengyiliao.github.io/files/CV.pdf"
+    
   - title: "Talks"
     Url: /talks/
+
+
+
