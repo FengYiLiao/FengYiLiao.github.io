@@ -40,7 +40,7 @@ Preprint
 Conference paper 
 ======
 
-- **Feng-Yi Liao**, Lijun Ding, and Yang Zheng. Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence. [PDF](https://arxiv.org/pdf/2410.22683).
+- **Feng-Yi Liao**, Lijun Ding, and Yang Zheng. Inexact Augmented Lagrangian Methods for Conic Programs: Quadratic Growth and Linear Convergence. [[PDF]](https://arxiv.org/pdf/2410.22683).
 
 
 - **Feng-Yi Liao**, Lijun Ding, and Yang Zheng. Error bounds, pl condition, and quadratic growth for
