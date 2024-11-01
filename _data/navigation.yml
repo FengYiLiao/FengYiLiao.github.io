@@ -1,7 +1,6 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+
         
   #- title: "Projects"
   #  url: /year-archive/
@@ -12,3 +11,6 @@ main:
   - title: "CV"
     url: "https://fengyiliao.github.io/files/CV.pdf"
     
+
+  - title: "Publications"
+    url: /publications/
