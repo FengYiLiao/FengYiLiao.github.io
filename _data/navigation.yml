@@ -9,8 +9,8 @@ main:
   #  url: /Awards/
   
 
-  # - title: "Publications"
-  #  url: /publications/
+  - title: "Publications"
+    url: /publications/
 
   - title: "CV"
     url: "https://fengyiliao.github.io/files/CV.pdf"
